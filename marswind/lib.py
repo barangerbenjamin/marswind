@@ -1,2 +1,2 @@
 def kickoff():
-    return 'Hello World'
+    return 'Hello Class'
